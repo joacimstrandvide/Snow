@@ -1,5 +1,4 @@
 # Snow
 
-A website where you are able to rent someone to shovel your drive way or street so you can sit back and relax on those cold winter days.
+En webbsida där man kan hyra några människor för att skotta bort snön på ens uppfart under vintern.
 
-This project only uses basic HTML & CSS
