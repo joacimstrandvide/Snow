@@ -1,5 +1,5 @@
 # Snow
 
-En webbsida där man kan hyra några människor för att skotta bort snön på ens uppfart under vintern.
+En webbsida där man kan hyra några individer för att skotta bort snön på ens tomt under vintern.
 
 <img src="Snow.png" alt="Screenshot" title="Screenshot">
